@@ -1,0 +1,2 @@
+Teste as funcionalidades do UFW usando o manual em https://help.ubuntu.com/community/UFW
+Avalie o resultado com o Wireshark.

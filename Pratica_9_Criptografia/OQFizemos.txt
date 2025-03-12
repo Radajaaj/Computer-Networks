@@ -1,0 +1,5 @@
+Primeiros baixamos pip install PyCryptodome
+
+Daí fizemos a criptografia em Salsa20 e AES conforme a documentação do PyCryptodome;
+Depois executamos o AES_Servidor e o AES_Client (nessa ordem)
+Por fim fizemos as alterações no código do RSA, e executamos ele. 
